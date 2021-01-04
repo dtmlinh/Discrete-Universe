@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This model is an agent-based universe in which each agent reacts to each other according to the Newton's law of universal gravitation. Everything is discrete, including time. 
+This Mathematica simulation is an agent-based universe in which each agent reacts to each other according to Newton's law of universal gravitation. Everything is discrete, including time. 
 
 The questions of interest are: 
 - How does the initial velocity of one planet affect its trajectory around the sun? How about mass? Location?
