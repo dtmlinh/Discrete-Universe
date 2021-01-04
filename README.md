@@ -5,10 +5,8 @@
 This model is an agent-based universe in which each agent reacts to each other according to the Newton's law of universal gravitation. Everything is discrete, including time. 
 
 The questions of interest are: 
-
-	- How does the initial velocity of one planet affect its trajectory around the sun? How about mass? Location?
-	
-	- By calculating the gravitational potential (also known as Newtonian potential) energy and the kinetic energy, we will investigate whether the total energy can be conserved in a discrete universe. 
+- How does the initial velocity of one planet affect its trajectory around the sun? How about mass? Location?
+- By calculating the gravitational potential (also known as Newtonian potential) energy and the kinetic energy, we will investigate whether the total energy can be conserved in a discrete universe. 
 
 ## Theoretical Framework
 
@@ -39,6 +37,6 @@ E<sub>k</sub> =  1/2 * m * v<sup>2</sup>
 
 The total energy of the entire universe is then calculated and presented in a graph.
 
-## Applications
+## Usage
 
 By selecting the initial values for: location (distance of the planet from the sun), mass (in this simulation, we will assume the sun and the planet have equal masses), and velocity (initial velocity of the planet), we can look at how the planet would orbit around the sun. 
