@@ -40,3 +40,5 @@ The total energy of the entire universe is then calculated and presented in a gr
 ## Usage
 
 By selecting the initial values for: location (distance of the planet from the sun), mass (in this simulation, we will assume the sun and the planet have equal masses), and velocity (initial velocity of the planet), we can look at how the planet would orbit around the sun. 
+
+![](demo.gif)
